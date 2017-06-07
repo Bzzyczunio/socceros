@@ -1,2 +1,1 @@
 # socceros
-Asystent trenera
